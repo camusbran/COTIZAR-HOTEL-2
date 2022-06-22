@@ -1,0 +1,33 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+body{
+    background-image: url(https://cdn-3.expansion.mx/dims4/default/e7886b4/2147483647/strip/true/crop/900x506+0+0/resize/1200x675!/format/webp/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8f%2F08%2Fa72fbe49448a97f323d9bf8940bb%2Fp-p.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+    margin: 20px 50px;
+}
+.box{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin: 0px 80px;
+    justify-content: center;
+}
+.cotizar{
+    text-align: center;
+    line-height: normal;
+}
+img{
+    height: 100%;
+    width: 90%;
+    border: 1px groove;
+    text-align: center;
+    margin: 20px 50px;
+}
